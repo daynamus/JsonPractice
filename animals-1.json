@@ -13,7 +13,6 @@
     "color": "Green",
     "size": "L",
     "Description":"PANTS - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    }
   },
 
   {
@@ -22,6 +21,6 @@
     "color": "Green",
     "size": "S",
     "Description":"SHORT - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    }
-  }
+    },
 ]
+
