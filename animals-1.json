@@ -1,25 +1,27 @@
+
 [
   {
-    "product_no.": "0101",
-    "type": "Shirt",
-    "color": "Red",
-    "size": "XL",
-    "Description":"SHIRT - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    "name": "Meowsy",
+    "species" : "cat",
+    "foods": {
+     "lik es": ["<img' src'='http://iconshow.me/media/images/Mixed/small-n-flat-icon/png/256/user-alt.png' width='50px'>"],
+      "dislikes": ["ham","zucchini"]
+    }
   },
-
   {
-    "product no.": "0102",
-    "type": "Pants",
-    "color": "Green",
-    "size": "L",
-    "Description":"PANTS - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    "name": "Barky",
+    "species" : "dog",
+    "foods": {
+      "likes": ["bones", "carrots"],
+      "dislikes": ["tuna"]
+    }
   },
-
   {
-    "product no.": "0103",
-    "type": "Short",
-    "color": "Green",
-    "size": "S",
-    "Description":"SHORT - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    },
+    "name": "Purrpaws",
+    "species" : "cat",
+    "foods": {
+      "likes": ["mice"],
+      "dislikes": ["cookies"]
+    }
+  }
 ]
