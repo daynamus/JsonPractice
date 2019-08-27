@@ -4,7 +4,7 @@
     "species" : "cat",
     "foods": {
      "lik es": ["<img' sc '='http://iconshow.me/media/images/Mixed/small-n-flat-icon/png/256/user-alt.png' width='50px'>"],
-      "dislikes": ["ham","'<b>' zucchini '</b>'" ]
+      "dislikes": ["ham","zucchini" ]
     }
   },
   {
