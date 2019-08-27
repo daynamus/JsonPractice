@@ -3,7 +3,7 @@
     "name": "Meowsy",
     "species" : "cat",
     "foods": {
-     "lik es": ["<img' src'='http://iconshow.me/media/images/Mixed/small-n-flat-icon/png/256/user-alt.png' width='50px'>"],
+     "likes": ["<img' src'='http://iconshow.me/media/images/Mixed/small-n-flat-icon/png/256/user-alt.png' width='50px'>"],
       "dislikes": ["ham","zucchini"]
     }
   },
