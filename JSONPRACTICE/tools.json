@@ -1,0 +1,18 @@
+{
+	"stock":[	
+		{
+			"itemnum":"012",
+			"name":"Wrapper",
+			"type":"construction",
+			"itemimage":"<img src='http://iconshow.me/media/images/Mixed/small-n-flat-icon/png/256/user-alt.png' width='50px'>",
+			"description":"Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries"
+		},
+		{
+			"itemnum":"013",
+			"name":"shovel",
+			"type":"gardening",
+			"itemimage":"<img src='http://iconshow.me/media/images/Mixed/small-n-flat-icon/png/256/user-alt.png' width='50px'>",
+			"description":"Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries"
+		},
+	]
+}
