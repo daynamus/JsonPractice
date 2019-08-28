@@ -3,7 +3,7 @@
     "number": "012",
     "item" : "hammer01",
     "foods": {
-     "likes": ["<img' src'='http://iconshow.me/media/images/Mixed/small-n-flat-icon/png/256/user-alt.png' width='50px'>"],
+     "likes": ["<img src='http://iconshow.me/media/images/Mixed/small-n-flat-icon/png/256/user-alt.png' width='50px'>"],
       "dislikes": ["ham","zucchini"]
     }
   },
